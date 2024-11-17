@@ -1,10 +1,10 @@
 public class EvenOdd {
     public static void main(String[] args) {
-        int number = 7; // Change this value to test other numbers
+        int number = 10; // Change this value to test other numbers
         if (number % 2 == 0) {
-            System.out.println(number + " is even.");
+            System.out.println(number + " is a even.");
         } else {
-            System.out.println(number + " is odd.");
+            System.out.println(number + " is a odd.");
         }
     }
 }
